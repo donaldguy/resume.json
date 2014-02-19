@@ -1,0 +1,44 @@
+{
+  "jquery": {
+    "name": "jQuery",
+    "language": "javascript",
+    "url": "https://jquery.org/"
+  },
+  "knockout.js": {
+    "name": "KnockoutJS",
+    "language": "javascript",
+    "url": "http://knockoutjs.com/"
+  },
+  "icanhaz.js": {
+    "name": "ICanHaz.js",
+    "language": "javascript",
+    "provides-language": "mustache",
+    "url": "http://icanhazjs.com/"
+  },
+  "guava": {
+    "name": "Google Guava",
+    "language": "java",
+    "url": "https://code.google.com/p/guava-libraries/"
+  },
+  "bootstrap": {
+    "name": "Bootstrap",
+    "aka": "Twitter Bootstrap",
+    "language": "css",
+    "url": "http://getbootstrap.com/"
+  },
+  "glog": {
+    "name": "google-glog",
+    "language": "cplusplus",
+    "url": "https://code.google.com/p/google-glog/"
+  },
+  "googletest": {
+    "name": "googletest",
+    "language": "cplusplus",
+    "url": "https://code.google.com/p/googletest/"
+  },
+  "googlemock": {
+    "name": "googlemock",
+    "language": "cplusplus",
+    "url": "https://code.google.com/p/googlemock/" 
+  }
+}

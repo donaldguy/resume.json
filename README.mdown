@@ -1,0 +1,10 @@
+# Donald Guy's resume information as JSON
+
+  * things which exist independent of him are broken out into their own 
+    (reusable?) representations, with web urls wherever relevant.
+    Apparently:
+      + Legal entities which exist go in the `world` directory
+      + Things which one "can learn" go in the `skills` directory
+  * Every such things is assigned a unique key. This will make these possibly
+    usable in a flat key-value store?
+  * Information pertaining to Donald specifically is in the top level `donaldguy-resume.json` file.

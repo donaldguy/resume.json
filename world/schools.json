@@ -1,0 +1,12 @@
+{
+  "mit": {
+    "name": "Massachusetts Institute of Technology",
+    "type": "University",
+    "url": "http://web.mit.edu/"
+  },
+  "olhs": {
+    "name": "Ocean Lakes High School",
+    "type": "High School",
+    "url": "http://www.oceanlakeshs.vbschools.com/"
+  }
+}

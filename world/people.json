@@ -1,0 +1,42 @@
+{
+  "donald.guy": {
+    "name": "Donald B. Guy",
+    "contact": "REDACTED",
+    "social-networks": {
+      "linkedin": "/in/dbguy",
+      "github": "donaldguy",
+      "twitter": "donaldguy"
+    }
+  },
+  "brian.honohan": {
+    "name": "Brian Honohan",
+    "social-networks": {
+      "linkedin": "/in/brianhonohan" 
+    }
+  },
+  "jawad.laraqui": {
+    "name": "Jawad Laraqui",
+    "social-networks": {
+      "linkedin": "/in/laraqui"
+    }
+  },
+  "geoff.krapf": {
+    "name": "Geoff Krapf",
+    "social-networks": {
+      "linkedin": "/pub/geoff-krapf/4/8bb/148" 
+    }
+  },
+  "ben.gertzfield": {
+    "name": "Ben Gertzfield",
+    "social-networks": {
+      "linkedin": "/in/bgertzfield",
+      "facebook": "beng" 
+    }  
+  },
+  "stephen.mcdonald": {
+    "name": "Stephen McDonald",
+    "social-networks": {
+      "linkedin": "/pub/stephen-mcdonald/1/283/b54" 
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "charitywater": {
+    "name": "charity: water",
+    "location": "New York, NY",
+    "url": "http://charitywater.org/"
+  },
+  "burstworks": {
+    "name": "BurstWorks LLC",
+    "location": "Cambridge, MA",
+    "url": "http://www.burstworks.com/"
+  },
+  "tripadvisor": {
+    "name": "TripAdvisor",
+    "location": "Newton, MA",
+    "url": "http://www.tripadvisor.com"
+  },
+  "facebook": {
+    "name": "Facebook",
+    "location": "Palo Alto, CA",
+    "url": "http://facebook.com"
+  },
+  "bose": {
+    "name": "Bose Corporation",
+    "location": "Framingham, MA",
+    "url": "http://www.bose.com/"
+  }
+}

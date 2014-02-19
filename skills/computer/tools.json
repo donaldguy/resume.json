@@ -1,0 +1,57 @@
+{
+   "git": {
+      "name": "Git",
+      "type": "version-control",
+      "url": "http://git-scm.com/"
+   },
+   "svn": {
+      "name": "Subversion",
+      "type": "version-control",
+      "url": "http://subversion.apache.org/"
+   },
+   "mysql": {
+      "name": "MySQL",
+      "type": "database",
+      "primary-language": "sql",
+      "url": "http://www.mysql.com/"
+   },
+   "posgres": {
+      "name": "PostgreSQL",
+      "type": "database",
+      "primary-language": "sql",
+      "url": "http://www.postgresql.org/"
+   },
+   "neo4j": {
+      "name": "Neo4j Graph Database",
+      "type": "database",
+      "primary-language": "cypher",
+      "url": "http://www.neo4j.org/"
+   },
+   "jenkins": {
+      "name": "Jenkins CI",
+      "type": "continous-integration",
+      "url": "http://jenkins-ci.org/"
+   },
+   "bamboo": {
+      "name": "Bamboo CI",
+      "type": "continous-integration",
+      "url": "https://www.atlassian.com/software/bamboo"
+   },
+   "chef": {
+      "name": "Chef",
+      "type": "configuration-management",
+      "primary-language": "ruby",
+      "url": "http://www.getchef.com/"
+   },
+   "berkshelf": {
+      "name": "Berkshelf",
+      "type": "configuration-management",
+      "primary-language": "ruby",
+      "url": "http://berkshelf.com/"
+   },
+   "vagrant": {
+      "name": "Vagrant",
+      "type": "vm-manager",
+      "url": "http://www.vagrantup.com/"
+  }
+}

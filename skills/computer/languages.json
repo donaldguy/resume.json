@@ -1,0 +1,103 @@
+{
+  "ruby": {
+    "name": "Ruby",
+    "types": ["programming", "scripting", "web", "backend"],
+    "url": "https://www.ruby-lang.org/"
+  },
+  "java": {
+    "name": "Java",
+    "types": ["programming", "web", "backend"],
+    "url": "http://www.java.com/"
+  },
+  "javascript": {
+    "name": "JavaScript",
+    "alternative-name": "ECMAScript",
+    "types": ["programming", "scripting", "web", "frontend"],
+    "url": "http://www.ecmascript.org/"
+  },
+  "c": {
+    "name": "C",
+    "types": ["programming", "systems"],
+    "url": "http://www.open-std.org/jtc1/sc22/wg14/"
+  },
+  "cplusplus": {
+    "name": "C++",
+    "types": ["programming", "systems"],
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/"
+  },
+  "python": {
+    "name": "Python",
+    "types": ["programming", "scripting"],
+    "url": "http://www.python.org/"
+  },
+  "php": {
+    "name": "PHP",
+    "types": ["programming", "scripting", "web", "backend"],
+    "url": "http://www.php.net/"
+  },
+  "bash": {
+    "name": "bash",
+    "types": ["programming", "scripting", "shell"],
+    "url": "http://www.gnu.org/software/bash/bash.html"
+  },
+  "perl5": {
+    "name": "Perl 5",
+    "types": ["programming", "scripting"],
+    "url": "http://www.perl.org/"
+  },
+  "scheme": {
+    "name": "Scheme",
+    "types": ["programming", "functional", "lisp"],
+    "url": "http://www.r6rs.org/"
+  },
+  "x86": {
+    "name": "x86 Assembly",
+    "types": ["programming", "systems", "assembly"],
+    "url": "http://www.intel.com/content/www/us/en/processors/architectures-software-developer-manuals.html"
+  },
+  "scala": {
+    "name": "Scala",
+    "types": ["programming", "functional"],
+    "url": "http://www.scala-lang.org/"
+  },
+  "haskell": {
+    "name": "Haskell",
+    "types": ["programming", "functional"],
+    "url": "http://www.haskell.org/"
+  },
+  "sql": {
+    "name": "SQL",
+    "types": ["query"],
+    "url": "http://www.iso.org/iso/iso_technical_committee.html?commid=45342"
+  },
+  "cypher": {
+    "name": "Cypher",
+    "types": ["query", "graph"],
+    "url": "http://www.neo4j.org/learn/cypher"
+  },
+  "css": {
+    "name": "CSS",
+    "types": ["markup", "styling", "web", "frontend"],
+    "url": "http://www.w3.org/Style/CSS/"
+  },
+  "html": {
+    "name": "HTML",
+    "types": ["markup", "web", "frontend"],
+    "url": "http://www.w3.org/html/"
+  },
+  "velocity": {
+    "name": "Apache Velocity",
+    "types": ["templating", "web", "backend"],
+    "url": "http://velocity.apache.org/"
+  },
+  "ftl": {
+    "name": "FreeMarker",
+    "types": ["templating", "web", "backend"],
+    "url": "http://freemarker.org/"
+  },
+  "mustache": {
+    "name": "Mustache",
+    "types": ["templating", "web", "frontend"],
+    "url": "http://mustache.github.io/"
+  }
+}
