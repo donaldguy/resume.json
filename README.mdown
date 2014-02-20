@@ -8,3 +8,9 @@
   * Every such things is assigned a unique key. This will make these possibly
     usable in a flat key-value store?
   * Information pertaining to Donald specifically is in the top level `donaldguy-resume.json` file.
+  
+  
+  * There appear some skills that are not referenced from the main file. I vaguely am asserting that
+    I also understand. If/when I parse this into some other form, I guess I will have to figure out what
+    to do with them
+  * I know some other stuff too.
